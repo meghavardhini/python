@@ -1,5 +1,5 @@
 def mn():
     ch="hello"
-    x=ch*2
+    x=ch*5
     print(x)
 mn()
