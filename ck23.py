@@ -1,5 +1,5 @@
 def mn():
-    a="HH sadsd"
+    a="sadsd"
     b=a.count(' ')
     print(b)
 mn()
