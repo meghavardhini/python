@@ -1,0 +1,10 @@
+m,e=list(map(int,input().split()))
+n,a=list(map(int,input().split()))
+h,s=list(map(int,input().split()))
+p=(e-m)
+print(p)
+q=(a-n)
+print(q)
+r=(s-h)
+print(r)
+
